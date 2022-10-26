@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca967fbc455d452aa8ffe33ae6c37dd8, type: 3}
+  m_Name: House4Data
+  m_EditorClassIdentifier: 
+  _name: House 4
+  _moneyToBuild: 3540
+  _woodToBuild: 180
+  _stonesToBuild: 180
+  _moneyToDestroy: 0
+  _incomeMoney: 705
+  _incomeStones: 0
+  _incomeWood: 0
